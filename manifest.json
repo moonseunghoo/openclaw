@@ -1,0 +1,13 @@
+{
+  "name": "world-market-briefing",
+  "version": "1.0.0",
+  "description": "Provides a professional, actionable daily or real-time briefing of global financial markets, optimized for mobile readability.",
+  "author": "Morgan (Stock AI Manager)",
+  "category": "Financial Analysis",
+  "capabilities": [
+    "web_search",
+    "web_fetch"
+  ],
+  "dependencies": [],
+  "last_updated": "2026-05-14"
+}
