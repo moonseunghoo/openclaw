@@ -33,21 +33,35 @@ A professional briefing must be highly scannable, especially for mobile users. F
 
 #### 🌐 Global Market Dynamics (The Global View)
 *Present how global liquidity and major indices are moving together as a single flow.*
-- **Major Indices (US/EU)**: **[Index Name]** [Price/Change] [Emoji] (e.g., S&P 500, Nasdaq, DAX)
-- **Major Asian Indices**: **[Index Name]** [Price/Change] [Emoji] (e.g., KOSPI, Nikkei 225, CSI 300)
-- **Crypto Market**: **[Asset Name]** [Price/Change] [Emoji] (e.g., BTC, ETH)
+- **Major Indices (US/EU)**:
+- **[Index Name]** [Price/Change] [Emoji] (e.g., S&P 500, Nasdaq, DAX)
+-
+- **Major Asian Indices**:
+- **[Index Name]** [Price/Change] [Emoji] (e.g., KOSPI, Nikkei 225, CSI 300)
+-
+- **Crypto Market**:
+- **[Asset Name]** [Price/Change] [Emoji] (e.g., BTC, ETH)
+-
 - **Global Sentiment**: [Briefly explain the current 'Risk-on' or 'Risk-off' environment]
 
 #### 🔍 Key Drivers & Macro Data
 *Use bullet points to connect news to numbers.*
-- **Economic Indicators**: **[Indicator Name]** [Value] [Emoji] → [Impact description]
-- **Geopolitics/News**: **[Event Name]** ⚠️ → [Market implication]
+- **Economic Indicators**:
+- **[Indicator Name]** [Value] [Emoji] → [Impact description]
+-
+- **Geopolitics/News**:
+- **[Event Name]** ⚠️ → [Market implication]
 
 #### 🇰🇷 Korean Market Intelligence (The Local Deep-dive)
 *A specialized analysis focusing on the 'Why' and 'How' for the Korean market.*
-- **Current Status**: **[KOSPI/KOSDAQ Index]** [Price/Change] [Emoji]
-- **Dynamic Linkage**: [Analyze how the global/Asian trends observed above are specifically manifesting in Korea (e.g., capital flows, currency impact)]
-- **Strategic Insight**: [Provide a professional, actionable conclusion based on the current context]
+- **Current Status**:
+- **[KOSPI/KOSDAQ Index]** [Price/Change] [Emoji]
+-
+- **Dynamic Linkage**:
+- [Analyze how the global/Asian trends observed above are specifically manifesting in Korea (e.g., capital flows, currency impact)]
+-
+- **Strategic Insight**:
+- [Provide a professional, actionable conclusion based on the current context]
 
 #### 💡 Analyst Insight
 *A final, high-level takeaway. Keep it under 3 sentences. Use **bold** for the key takeaway.*
